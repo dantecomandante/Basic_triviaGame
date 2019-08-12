@@ -1,0 +1,15 @@
+html,body{
+    height:100%;
+  }
+  
+  body{
+    background-image: url(../images/cars-1130262_960_720.jpg);
+    background-size: 100%;
+    text-align: center;
+  
+  }
+  
+  #questions{
+    background-color: blue;
+    box-sizing: border-box;
+  }
